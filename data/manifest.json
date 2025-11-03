@@ -1,1 +1,15 @@
-{}
+{ 
+  "version": "2025-11-03",
+  "updatedAt": "2025-11-03T12:00:00Z",
+  "categories": {
+    "Motivasyon": { "shards": 1 },
+    "Aşk": { "shards": 1 },
+    "Başarı": { "shards": 1 },
+    "Hayat": { "shards": 1 },
+    "Tecrübe": { "shards": 1 },
+    "Bilgelik": { "shards": 1 }
+  },
+  "zodiac": {
+    "Koç": { "shards": 1 }
+  }
+}
