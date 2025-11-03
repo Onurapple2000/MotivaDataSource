@@ -1,1 +1,10 @@
-{}
+[
+  {
+    "id": "cdn-basari-1",
+    "text": "Bir söz Basarı 0.json",
+    "author": "Bilinmiyor",
+    "category": "Basari",
+    "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80&auto=format&fit=crop",
+    "source": "cdn"
+  }
+]
