@@ -2,14 +2,25 @@
   "version": "2025-11-03",
   "updatedAt": "2025-11-03T12:00:00Z",
   "categories": {
-    "Motivasyon": { "shards": 1 },
-    "Aşk": { "shards": 1 },
-    "Başarı": { "shards": 1 },
-    "Hayat": { "shards": 1 },
-    "Tecrübe": { "shards": 1 },
-    "Bilgelik": { "shards": 1 }
+    "Motivasyon": { "shards": 2 },
+    "Ask": { "shards": 2 },
+    "Basari": { "shards": 2 },
+    "Hayat": { "shards": 2 },
+    "Tecrube": { "shards": 2 },
+    "Bilgelik": { "shards": 2 }
   },
   "zodiac": {
-    "Koç": { "shards": 1 }
+    "Koc": { "shards": 1 }
+    "Boga": { "shards": 1 }
+    "Ikizler": { "shards": 1 }
+    "Yengec": { "shards": 1 }
+    "Aslan": { "shards": 1 }
+    "Basak": { "shards": 1 }
+    "Terazi": { "shards": 1 }
+    "akrep": { "shards": 1 }
+    "Yay": { "shards": 1 }
+    "Oglak": { "shards": 1 }
+    "Kova": { "shards": 1 }
+    "Balik": { "shards": 1 }
   }
 }
