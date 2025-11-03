@@ -1,4 +1,4 @@
-{ 
+{
   "version": "2025-11-03",
   "updatedAt": "2025-11-03T12:00:00Z",
   "categories": {
@@ -10,17 +10,17 @@
     "Bilgelik": { "shards": 2 }
   },
   "zodiac": {
-    "Koc": { "shards": 1 }
-    "Boga": { "shards": 1 }
-    "Ikizler": { "shards": 1 }
-    "Yengec": { "shards": 1 }
-    "Aslan": { "shards": 1 }
-    "Basak": { "shards": 1 }
-    "Terazi": { "shards": 1 }
-    "akrep": { "shards": 1 }
-    "Yay": { "shards": 1 }
-    "Oglak": { "shards": 1 }
-    "Kova": { "shards": 1 }
+    "Koc": { "shards": 1 },
+    "Boga": { "shards": 1 },
+    "Ikizler": { "shards": 1 },
+    "Yengec": { "shards": 1 },
+    "Aslan": { "shards": 1 },
+    "Basak": { "shards": 1 },
+    "Terazi": { "shards": 1 },
+    "Akrep": { "shards": 1 },
+    "Yay": { "shards": 1 },
+    "Oglak": { "shards": 1 },
+    "Kova": { "shards": 1 },
     "Balik": { "shards": 1 }
   }
 }
